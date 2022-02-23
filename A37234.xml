@@ -1,0 +1,301 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Essexian triumviri, or, A discourse btween three Colchester-gentlemen disguiz'd in masquerade and Titus Otes concerning the present government both ecclesiastical and civil, and the election of members to sit in the House of Commons whensoever it shall please His Majesty to call a Parliament.</title>
+            <author>B. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37234</idno>
+            <idno type="STC">Wing D4</idno>
+            <idno type="STC">ESTC R8307</idno>
+            <idno type="EEBO-CITATION">13245120</idno>
+            <idno type="OCLC">ocm 13245120</idno>
+            <idno type="VID">98659</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37234)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98659)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 451:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Essexian triumviri, or, A discourse btween three Colchester-gentlemen disguiz'd in masquerade and Titus Otes concerning the present government both ecclesiastical and civil, and the election of members to sit in the House of Commons whensoever it shall please His Majesty to call a Parliament.</title>
+                  <author>B. D.</author>
+                  <author>Oates, Titus, 1649-1705.</author>
+               </titleStmt>
+               <extent>[4], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Norris ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: B. D.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98659:1"/>
+            <pb facs="tcp:98659:1" rendition="simple:additions"/>
+            <p>THE <hi>Eſſexian Triumviri:</hi> OR, A DISCOURSE BETWEEN Three <hi>Colcheſter</hi>-GENTLEMEN Diſguiz'd in Maſquerade, AND TITUS OTES, Concerning the preſent GOVERNMENT Both Eccleſiaſtical and Civil, And the Election of Members to Sit in the <hi>Houſe of Commons</hi> Whenſoever it ſhall pleaſe His MAJESTY to call a PARLIAMENT.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>James Norris,</hi> at the Sign of the <hi>Kings-Arms</hi> without <hi>Temple-bar.</hi> 1684.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:98659:2"/>
+            <pb facs="tcp:98659:2"/>
+            <head>TO THE <hi>Loyal Nobility,</hi> Gentry, and Commonalty of the County OF ESSEX.</head>
+            <p>AN Epiſtolar Addreſs prefixt to any Trea<g ref="char:EOLhyphen"/>tiſe, is ſo Modiſh, that a Diſcourſe looks ſomewhat unornamental without it: yet in this Dialogue between the <hi>Eſſexian Triumviri</hi> and <hi>T. Otes,</hi> there is ſomewhat more then a Cuſtom or Faſhion to be pleaded by way of Apologie; for indeed there is reaſon the Reader ſhould underſtand the bare deſign, without any ſpeci<g ref="char:EOLhyphen"/>ous Maſque or Veil; which in ſhort is this: The very words, or the genuine ſenſe of them, between the three <hi>Colcheſter</hi>-Gentlemen and <hi>Otes,</hi> in any part of the Diſcourſe or Dialogue, are really true, and will be atteſted upon Oath, if requir'd. What elſe is added, as to the ſubſtance, will be aver'd and maintain'd by perſons of Loyalty and Integrity.
+<pb facs="tcp:98659:3"/>
+What is additional, by way of Amplication, is the Latitude which the Amanuenſis aſſum'd to himſelf, and is as willing to undergo the Teſt, as any other perſon whatſoever, upon a ſtrict Examination. All this tends only by the three Loyal <hi>Colcheſter</hi>-Gen<g ref="char:EOLhyphen"/>tlemen, to adviſe all perſons in the County of <hi>Eſ<g ref="char:EOLhyphen"/>ſex,</hi> to be as unanimous in the Election of Loyal and Serviceable Members, for the ſervice of their King and Country, as <hi>Otes</hi> and his Party are in<g ref="char:EOLhyphen"/>duſtrious to promote thoſe of the Diſſenting Faction, to bring all (provided other Counties ſhould follow his Example) to a deteſtable <hi>Anarchie</hi> and Confu<g ref="char:EOLhyphen"/>ſion; which it is reaſonably ſuppoſed all His Maje<g ref="char:EOLhyphen"/>ſties Liege Subjects will religiouſly deprecate, and venture their Lives and Fortunes to prevent, in vindication of Monarchie and the beſt of Govern<g ref="char:EOLhyphen"/>ments, Eccleſiaſtical and Civil, as now by Law eſta<g ref="char:EOLhyphen"/>bliſhed, againſt all Traiterous and villanous oppo<g ref="char:EOLhyphen"/>ſers.</p>
+            <closer>
+               <signed>Your Servant <hi>B. D.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:98659:3"/>
+            <head>THE ESSEXIAN TRIUMVIRI: OR, A Diſcourſe between Three <hi>Colcheſter</hi>-Gentlemen in Maſquerade, and <hi>T. OTES,</hi> &amp;c.</head>
+            <p>THE Antients, though learned, were ſo fondly Superſtitious, that the croſſing of a Hare, or the ominous noiſe of a Raven, wou'd deter them from Viſits or Buſineſs that day; nor was it in the power of Rhetorick to diſſuade them from ſuch weak and groundleſs Reſolutions: what wou'd they have ſaid, had they been deputed for this Viſit, when as Three <hi>Eſſexian</hi> Gentlemen, who in Maſquerade deſignedly attempted it, to underſtand <hi>Otes</hi> his inclinations to the Govern<g ref="char:EOLhyphen"/>ment as now eſtabliſhed by Law? In the firſt Rencounter, after ſome knocking at the door, there appears a luſty Fellow, the Servant of <hi>T. Otes,</hi> a ſtrong Hatch ſpik'd with Iron, (as a wall of Separation between them) and after ſome diſ<g ref="char:EOLhyphen"/>courſe that being opened, a Chain croſs the door: theſe are terrifying objects, fit for the Emblem
+<pb n="2" facs="tcp:98659:4"/>
+of Hell; a Priſon, and the Devil Maſter of the Appartment. But why this walking Monument of Villany ſhould be thus guarded; why this <hi>T. O.</hi> that hath no Wit, Wealth, nor Honeſty, ſhould be thus barricaded up for ſecurity, is a gra<g ref="char:EOLhyphen"/>velling Queſtion; nor can I think of any ready anſwer, but his inward regret for Profligate Acti<g ref="char:EOLhyphen"/>ons, and a guilt of Conſcience, ever expecting the reward of them, puniſhment condign by the hand of every thing that appears capable of be<g ref="char:EOLhyphen"/>ing the Executioner of Revenge. But to the purpoſe: after ſome tedious and impertinent (if a Man dare ſay ſo, for fear of being thr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt into the Plot by neck and ſhoulders) they had ad<g ref="char:EOLhyphen"/>miſſion, being firſt askt who they were, and ſome<g ref="char:EOLhyphen"/>what more ſtrictly examin'd, they being at a door, anſwer was made, that they were all Three <hi>Eſſex</hi>-Gentlemen, and the Doctors very good Friends, they being men of intereſt in that County, and diſguiz'd in a kind of a Riding Garb; and ſo diſ<g ref="char:EOLhyphen"/>guiz'd, only to know of this Patron of Diſſen<g ref="char:EOLhyphen"/>ters his Sentiments, and particularly who they were that the Factions intended to put up for Members the next Election, when His Majeſty ſhould be gratiouſly pleaſed to iſſue out Writs for a Parliament. Being thus, not without great difficulty introduc'd, they were accoſted and re<g ref="char:EOLhyphen"/>ceived with all imaginable Careſſes by the Doctor
+<pb n="3" facs="tcp:98659:4"/>
+               <hi>in Pontificalibus;</hi> though 'tis the aſtoniſhment of Modeſt Men, that he cou'd ever have ſo much impudence as to aſſume the Gown, Scarf, and Title of Doctor, which Degree he ſays he took in the <hi>Academie</hi> of <hi>Salamanca,</hi> the very <hi>Padua</hi> of <hi>Spain;</hi> and a Nurſery for Phyſicians for the Bo<g ref="char:EOLhyphen"/>dy, and not for thoſe of the Soul, as he pretends to be; but 'tis pardonable upon his account, old Men &amp; Travellers may Lye by authority (and he that can Swear damnably, may <hi>à fortieri</hi> Lye moſt impudently) for he that has been ſo notoriouſly forſworn himſelf about Perſons and Places, theſe little <hi>Peceadillo's,</hi> as the <hi>Spaniard</hi> calls them, may be Venial and paſs uncenſur'd as humane frailties with ſome pity and commiſeration, which others turn into hatred and execration; and truly, give the Devil his due, I am ſatisfied he hath had more Curſes thrown upon him, than there ever were mentioned in the <hi>Aſh-wedneſday Commination;</hi> and ſome conciſely wiſh, that all the Plagues of <hi>Aegypt</hi> Epitomiz'd in one, might inevitably light upon him; how deſervedly, I leave it to the Reader to judge.</p>
+            <p>But now as to the condition of this Reverend, I know not by what Name or Title to diſtinguiſh him, (for dignifying he never will deſerve) Fop, Baptiſt, Scaramouchi of the Gown, Buffoon of the Pulpit, the Sq<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>king Bag-pipe of little or
+<pb n="4" facs="tcp:98659:5"/>
+no Divinity, or what you pleaſe; it ſeems was found in a diſmal and painful condition, occaſi<g ref="char:EOLhyphen"/>oned by ſome Paroxyſms of a racking Gout; but what Gout, ſince there are ſo many ſorts, and theſe ſo dangerous, (I had almoſt ſaid ſcandalous) I ſhall leave it to conjecture. Notwithſtanding this tormenting indiſpoſition, he cou'd ſmile up<g ref="char:EOLhyphen"/>on the <hi>Triumviri</hi> his Viſitants, imagining that they were perſons wou'd be as forward and vi<g ref="char:EOLhyphen"/>gorous to promote his Rebellious Deſigns, and thoſe of his Party, as they were capable of ma<g ref="char:EOLhyphen"/>king an intereſt in that County. After much looſe Diſcourſe about the Politick Affairs of the Nation, (ſome particulars moſt material you ſhall have an account of in what follows) he, accor<g ref="char:EOLhyphen"/>ding to the laudable cuſtom of <hi>England, Do no<g ref="char:EOLhyphen"/>thing raſhly, firſt let's drink,</hi> before we come to particulars, with no very audible or laudable, but a ſqueaking whining tone, like a ſlaviſh Iriſh<g ref="char:EOLhyphen"/>man, he was ſo generous as to call his Man <hi>Tom,</hi> commanding him to bring them a Bottle of Cla<g ref="char:EOLhyphen"/>ret, and another of Sider, to Treat his Worthy Friends with, though the Gentlemen proffer'd to ſend for Wine to treat the Doctor in his own A<g ref="char:EOLhyphen"/>partment; but that being denied with a kind of Spaniſh pride, (I dare not ſay gravity) they paſt it about one to the other, without remembring His Majeſty or Royal Highneſs, I preſume'd but
+<pb n="5" facs="tcp:98659:5"/>
+               <hi>T. O.</hi> wou'd not, durſt not drink, by reaſon of the affliction of the Toe; nor was it his cu<g ref="char:EOLhyphen"/>ſtom abroad, as he ſaid. But as to that, before I proceed, I muſt interrupt the ſeries of this Diſ<g ref="char:EOLhyphen"/>courſe with a true and convincing Argument of his abſtemiouſneſs in Potables of this nature; and that not only every night in the week, but on Sundays likewiſe: now Mr. <hi>Marſhal,</hi> both by Name and Office, can give you the beſt account of his Sabbatical diverſions, at the ſign of Fif<g ref="char:EOLhyphen"/>teen Shillings on the black-ſide of the <hi>Royal Ex<g ref="char:EOLhyphen"/>change,</hi> till he was routed out of the Houſe on thoſe days, and at preſent keeps his Phanatical Nocturnal Cabal no longer there, where he ſate as Chair-man of that unlawful Aſſembly, ſhaking his Noddle like an empty bottle, till he drown'd his little Wit and Brains in Claret; and then wou'd about the Noon of the night reel down the ſtairs like Boys down a hill, and his atten<g ref="char:EOLhyphen"/>dant Janizaries were forced to gather up the in<g ref="char:EOLhyphen"/>ebriated <hi>Pollicionello.</hi> Theſe are his holy diver<g ref="char:EOLhyphen"/>ſions, theſe his Religious Practices, Meritorious Works, for which the Gown-man deſerves Ca<g ref="char:EOLhyphen"/>nonization, to be enroll'd as the leading man of all Factions, the prime promoter of Sedition, the <hi>Kid</hi> thwacker of the Nation; but 'twas a wonder that rain Action had not ſtirr'd up the Old Man in the rugged <hi>Millenarian,</hi> who ſome
+<pb n="6" facs="tcp:98659:6"/>
+years ſince, with the reſt of that Rebellious Crew, was ſo precipitate and villanous, as to Alarum our Metropolis, and endeavour to ſubvert the Government, upon the fond and groundleſs con<g ref="char:EOLhyphen"/>ceit of a Fifth-Monarchy of a thouſand years duration here upon earth: that he ſhou'd be ſo Creſt-fallen, and turn'd ſo great a Craven, as to ſuffer himſelf to be Cudgell'd by a Titular Soul<g ref="char:EOLhyphen"/>leſs Doctor, a Nominal Parſon, in his own houſe, in a publick room, before a pack of profligate Ca<g ref="char:EOLhyphen"/>balliſts, and all for the lucre of a diſh of Coffee. <hi>Monſtrum, horrendum—</hi>
+            </p>
+            <p>If the Aggreſſor had had ſo much courage as to write Man, (for I'm ſure he cannot Chriſtian) ſomewhat might have been ſaid by way of Apo<g ref="char:EOLhyphen"/>logy; but to be bang'd by an Urchin, is a piece of Tameneſs (not to ſay worſe) unexampled. Herein this I muſt aver for <hi>Orlando Furioſo,</hi> that herein, and herein only, he declared himſelf to be one of the Church Militant, the <hi>Don Quixot</hi> of <hi>Chivalry,</hi> the <hi>Sancho Pancho</hi> of thwacking At<g ref="char:EOLhyphen"/>chievements, the Bluſtring <hi>Don</hi> of <hi>Knight Erran<g ref="char:EOLhyphen"/>try,</hi> and the <hi>Millenarian Kill-Cow</hi> of the Nation. O Valiant Doctor! if I may ſo call thee without a Soleciſm. But we will now proceed to ſome of the reſt of his virtuous qualifications, and give his true Portraict in ſome other of his Actions, for the benefit of theſe Kingdoms, and the promo<g ref="char:EOLhyphen"/>tion
+<pb n="7" facs="tcp:98659:6"/>
+of Loyal Members to ſerve the King and Country in the <hi>Senate</hi> of <hi>England;</hi> in order to which, the <hi>Eſſexian Triumviri</hi> deſir'd to under<g ref="char:EOLhyphen"/>ſtand his Sentiments of a <hi>Parliament;</hi> to which he replied <hi>ſecundum ſolitum,</hi> with a ſtarcht formal gravity, that there might be a <hi>Parliament</hi> ſuddain<g ref="char:EOLhyphen"/>ly called; but he thought fit (a worthy Statiſt indeed to ſit at helm, and ſteer the Ship of the Kingdom) —<hi>Mildmay</hi> and —<hi>Luther,</hi> or ra<g ref="char:EOLhyphen"/>ther in his opinion, —<hi>Mildmay</hi> &amp; —<hi>Eldred</hi> ſhou'd be Elected to ſtand for the County of <hi>Eſſex.</hi> But as for Mr. <hi>Honywood,</hi> being askt what he thought of him, he ſaid, <hi>There wou'd be no uſe for him; for in truth he did not know what to make of him.</hi> It ſeems he was not approv'd by the <hi>Judicious</hi> Do<g ref="char:EOLhyphen"/>ctor to be a perſon qualified for the promotion of Traiterous Deſigns, and therefore he muſt be raced out of the Liſt of Parliament-men, and not be admitted into the Houſe upon any terms whatſoever. But proceeding farther in their diſ<g ref="char:EOLhyphen"/>courſe, the Gentlemen deſired to know what he thought of <hi>Mildmay,</hi> lying under the dangerous circumſtances of an Information, much diſcourſt of about the Town, for high Miſdemeanors; and whether he was a Man capable of Election upon that account. To which the Doctor made an<g ref="char:EOLhyphen"/>ſwer, <hi>Puſh! that will be <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> obſtacle at all, he might be Elected for all thoſe <gap reason="illegible" resp="#UOM" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>inary circumſtan<g ref="char:EOLhyphen"/>ces;</hi>
+               <pb n="8" facs="tcp:98659:7"/>
+and farther added, <hi>The Loyal Party have a deſign to put up Six to be choſen Members; and upon that conſideration, We</hi> (a rampant ſtyle in the Plural number, for a Sawcie, Malapert, Diminu<g ref="char:EOLhyphen"/>tive Doctor) <hi>do not queſtion to have the day; for that very thing wou'd no ways tend to their inte<g ref="char:EOLhyphen"/>reſt.</hi> Thus you may ſee how vigilant and active this <hi>Muſhrom-Machiavilian</hi> is ready to appear in Plotting and contriving any thing that may coun<g ref="char:EOLhyphen"/>tenance Rebellion, and promote the Helliſh De<g ref="char:EOLhyphen"/>ſigns of his Lord and Maſter, the prince of dark<g ref="char:EOLhyphen"/>neſs, in oppoſition to the good of the Nation, and the Intereſt of our Soveraign Lord the King, (whom God preſerve from the Damn'd Machi<g ref="char:EOLhyphen"/>nations of ſuch <hi>Helliſh Boutefeux,</hi> ſuch accurſed Incendiaries as the Doctor and his Caballing Par<g ref="char:EOLhyphen"/>ty.) But to proceed: after he had thus learned<g ref="char:EOLhyphen"/>ly harangu'd them for ſome time, The Three Gentlemen in Maſquerade farther ſaid, ſeeming<g ref="char:EOLhyphen"/>ly to ingratiate themſelves with him, but really to ſift the thoughts of his heart, (if thoſe of a falſe heart can be dived into or diſcovered) that at the laſt Electon, when he <hi>Jehu-like</hi> came dri<g ref="char:EOLhyphen"/>ving down furiouſly to <hi>Colcheſter</hi> in a Caroſſe with ſix horſes, (a fine piece of State for a piti<g ref="char:EOLhyphen"/>ful Puny Fellow, whoſe Indigence and Impu<g ref="char:EOLhyphen"/>dence conten<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for priority, and ſtill <hi>ſub Judice lis eſt</hi> which of theſe two will bear away the
+<pb n="9" facs="tcp:98659:7"/>
+Bell) he was ſo throng'd after by thoſe of that Country, that they cou'd not, without an un<g ref="char:EOLhyphen"/>pardonable interruption, pay their due reſpects to him, he being there ſo much concern'd in point of intereſt, that a perſon of great quality ſent for him at Twelve of the clock at night, to have ſome diſcourſe with him about the Election of Members to ſit in Parliament for that County, and told him, that Sir <hi>Harbottle Grimſton,</hi> Maſter of the <hi>Rolls,</hi> deſir'd to be excuſed from ſtanding as Candidate in their nomination for a Member of the Houſe of Commons; to which <hi>Otes</hi> made no reply at the preſent before him, but embra<g ref="char:EOLhyphen"/>ced a more fit opportunity to promote his de<g ref="char:EOLhyphen"/>ſigns among the Phanatick Faction, (and a very fit place too, all things conſidered) which was on a Bowling-green, where he frankly declared, like a Worthy and Learned Gentleman of the Long Robe, (who could never write his Name right, if he ever had one) till he was taught to ſpell it by the induſtrious and ſagacious Obſervator) that his intention in Coaching it down to <hi>Colcheſter,</hi> was not to oppoſe the Election of Sir <hi>Harbottle Grimſton,</hi> before-mentioned, but only to uſe the intereſt of their Party againſt the choice of Sir <hi>Walter Clarges;</hi> ſo that it ſeems if he and his A<g ref="char:EOLhyphen"/>bettors can rule the roſt, there ſhall be no perſon ſet up that has one grain of Loyalty in him, but
+<pb n="10" facs="tcp:98659:8"/>
+only thoſe perſons, who when aſſembled, may take ſuch meaſures as they did in 1641. and all this muſt be done <hi>in the fear of the Lord,</hi> for the repromotion of the <hi>Good Old Cauſe,</hi> the ſetling of the <hi>Government,</hi> the advancement of <hi>Religi<g ref="char:EOLhyphen"/>on,</hi> the good and emolument of the <hi>King</hi> and <hi>Countrey;</hi> which in plain <hi>Engliſh</hi> is no more than <hi>Proteſtantiſm</hi> in <hi>Maſquerade,</hi> and the blackeſt of Crimes, Rebellion, againſt as Clement and Mer<g ref="char:EOLhyphen"/>ciful a <hi>Monarch</hi> as ever ſwayed the Sceptre, or wore an <hi>Imperial Crown,</hi> and the ſubverſion of the beſt <hi>Government</hi> in the Univerſe, as now ſet<g ref="char:EOLhyphen"/>led and eſtabliſhed in theſe Kingdoms; and all this under the ſpecious Vizard of <hi>Religion,</hi> the common veil of all Horrid and Satanical De<g ref="char:EOLhyphen"/>ſigns; ſo that we may well cry out with the Prince of Poets,
+<q>Tantum Relligio potuit ſnadere malorum?</q>
+Muſt Religion be ſtill the Cloak of Villany? Muſt the Maſque of Divinity veil the ugly Vi<g ref="char:EOLhyphen"/>ſage of Impiety? Shall Reformation in <hi>Church</hi> and <hi>State</hi> be ever <hi>Synonymous</hi> to Rebellion and Subverſion of the Government? Is there no o<g ref="char:EOLhyphen"/>ther rule or method in modern Politie to de<g ref="char:EOLhyphen"/>throne <hi>Kings,</hi> but by the ſpecious pretence of ſetling <hi>Religion</hi> and <hi>Government?</hi> Theſe are a kind
+<pb n="11" facs="tcp:98659:8"/>
+of Political Brutes, that dare unman themſelves to Unking their Lawful <hi>Prince</hi> and <hi>Monarch.</hi> But to go on with the remainder of this Diſ<g ref="char:EOLhyphen"/>courſe: <hi>Otes</hi> farther acquainted the Gentlemen, <hi>That one Sir <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Shame</hi> wou'd be put up to <hi>ſtand the next Election in</hi> Colcheſter; but with<g ref="char:EOLhyphen"/>al added, <hi>That wou'd do no good at all, their deſigns he muſt it ſeems have fruſtrated; and as for the County-Election, he did not at all queſtion but that thoſe Friends before-mentioned, viz.</hi> Mildmay <hi>and</hi> Eldred, <hi>wou'd he Elected Parliament-men, by reaſon of the Diſſention between the Gentlemen of the Coun<g ref="char:EOLhyphen"/>ty, in endeavouring to ſet up Six to ſtand as Candi<g ref="char:EOLhyphen"/>dates at the next Election.</hi>
+            </p>
+            <p>Thus you have a ſhort but true Narrative of <hi>Otes</hi>'s deſigns, and thoſe of his Factious Party. A fit perſon indeed to be the ſtaggering guide of the unſetled and Whirlegig Faction; who has been ſince this Interview ſpied by a diligent and honeſt Obſervator, to reel out of one Tavern into another at Twelve of the Clock at night, (a proper geſture, and fit hour for a pretended Prieſt, who is the very <hi>Stigma</hi> and <hi>Scandal</hi> of the <hi>Gown</hi>) loaden with Wine, and empty of Wit, like an innated Sop fit to be ſwallowed in a Mornings draught by the Infernal <hi>Garagantua.</hi> The aery <hi>Monſieur</hi> has a <hi>Proverb, Le vin n'a point de chauſſes;</hi> Wine wears no breeches, but diſ<g ref="char:EOLhyphen"/>gracefully
+<pb n="12" facs="tcp:98659:9"/>
+expoſeth every mans nakedneſs to pub<g ref="char:EOLhyphen"/>lick view, lays open his Imbecilities and Imper<g ref="char:EOLhyphen"/>fections to the whole world: not that he had any need to do that, ſince he has ſufficiently ſa<g ref="char:EOLhyphen"/>tisfied all men of Senſe and Reaſon, what a perſon of Integrity and Wiſdom he hath manifeſted himſelf to be in all his verſatile and contradicto<g ref="char:EOLhyphen"/>ry Speeches and Actions; (to ſay no worſe of them) but certainly the Devil (as we uſually ſay) owes him a ſhame, and will be ſure to pay him before he ſwings out of this world, and drops into <hi>Styx</hi> off the Triple-tree, if Juſtice hath not ſtored up a more exemplary puniſhment for his Worſhip.</p>
+            <p>One thing I cannot omit, which I was very cre<g ref="char:EOLhyphen"/>dibly informed, by an honeſt well-meaning <hi>Torie,</hi> which is this: <hi>Otes</hi> (for I will follow the Modern way of Spelling his Name) being one day at a <hi>Coffee-houſe,</hi> (the Receptacle and Nurſery of Profligate Phanaticks and Diſſenters) chanced to fall upon an unpleaſant Argument to all perſons of integrity, concerning ſome nominal diſtincti<g ref="char:EOLhyphen"/>ons of Factions and Parties; where he was heard publickly to lay this down as a <hi>Maxime, That a</hi> Chriſtian Turk <hi>was far better principled than a</hi> Papiſt, (a worthy Tenet of a <hi>Proteſtant Black-Coat!</hi>) which did ſtrike ſome of the hea<g ref="char:EOLhyphen"/>rers with ſo much horrour, who came out of
+<pb n="13" facs="tcp:98659:9"/>
+mere curioſity to ſee and hear this prating <hi>Savi<g ref="char:EOLhyphen"/>our</hi> of the <hi>Nation,</hi> and particularly one Country-Gentleman then preſent, a perſon both of Ho<g ref="char:EOLhyphen"/>neſty and Courage, that he replied immediately, Say you ſo, Doctor, is that your Religious opi<g ref="char:EOLhyphen"/>nion? then take this <hi>Turkiſh</hi> reward for your pains; and threw a diſh of hot <hi>Coffee</hi> in his face, which bedewed the Doctor with that warm li<g ref="char:EOLhyphen"/>quor, that bears a complection as black almoſt as his dark and fable Actions: but the peeviſh Doctor took it then very patiently, without ver<g ref="char:EOLhyphen"/>bal or actual reſiſtance; his courage it ſeems was not then heightned with Wine, ſo as to make him fly to his <hi>ultimum refugium,</hi> reviling language, and his <hi>Argumentum baculinum,</hi> as he did to the <hi>Millenarian</hi> before-mentioned. This is the higheſt and moſt notorious paſſage of his ſignal patience, that I ever heard or read of; and God grant him more of that tame meekneſs, and all Gentlemen equal reſolution and courage to baffle ſuch prac<g ref="char:EOLhyphen"/>ling and ill-principled Diſſenters. But before I take leave of him, give me leave to tell you with what Careſſes and Ceremonies he intended to diſmiſs his <hi>Ternary</hi> of Viſitants: the three Gentlemen having drained him as far as they thought at that preſent convenient, left he might diſcover their vizarded deſigns, by putting him upon any farther Interrugatories, being ready to
+<pb n="14" facs="tcp:98659:10"/>
+depart, the <hi>Gowty Don</hi> made a ſhift to raiſe him<g ref="char:EOLhyphen"/>ſelf, and ſay, Gentlemen, I muſt kiſs your hands, after the —<hi>Manca-mode,</hi> though with more <hi>Spa<g ref="char:EOLhyphen"/>niſh</hi> pride than gravity, (for he had gain'd a ha<g ref="char:EOLhyphen"/>bit of the <hi>Spaniards</hi> Vice, though not ſo much as a ſmatch of their Vertue) profered very ob<g ref="char:EOLhyphen"/>ligingly to give them all three a <hi>Bezo las manos,</hi> as <hi>Albrici<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> for the good news of their real in<g ref="char:EOLhyphen"/>clinations (as he vainly conceiv'd) to himſelf and his Party; which they very modeſty refuſed, and ſo departed with ſome uſual Complements, very affectionately expreſſed, and paſſed between them, to the great content of the Doctor, and the ſufficient ſatisfaction of the <hi>Coleheſter-Gentle<g ref="char:EOLhyphen"/>men,</hi> who had really effected what they had de<g ref="char:EOLhyphen"/>ſign'd, under the vail of a rural Diſguize, where<g ref="char:EOLhyphen"/>by <hi>Otes</hi> was fruſtrated of that imaginary ſervice he had done the Factious Party; and may all his and their deſigns be for ever thus blaſted in the bud, and cruſht in the very egg, before they come to maturity and perfection: and as this is mine, ſo I queſtion not but it is the cordial Prayer, and fervent Ejaculation of all true Chriſtians and Loyal Subjects.</p>
+            <p>'Tis voiced or noiſed about the City, that his <hi>Doctorſhip</hi> intends to leave the Tumultuous Town, and retire himſelf to a Country-Apart<g ref="char:EOLhyphen"/>ment not far off, to enjoy himſelf in his rural re<g ref="char:EOLhyphen"/>ceſs
+<pb n="15" facs="tcp:98659:10"/>
+with the greater privacie, and leſs interrup<g ref="char:EOLhyphen"/>tion, to practice his old Vices in a <hi>Monaſtick</hi> re<g ref="char:EOLhyphen"/>tirement, and hatch his miſchievous and pernici<g ref="char:EOLhyphen"/>ous Plots to a higher and more undiſcovered per<g ref="char:EOLhyphen"/>fection than hitherto he hath done; and in order thereunto, (as I am inform'd) ſhews himſelf a<g ref="char:EOLhyphen"/>broad without any Attendant, his Three <hi>Bum-Bilboa</hi> Blades being diſcarded, whether for want of Money or Pride, is the queſtion; though 'tis thought the former and not the latter is the oc<g ref="char:EOLhyphen"/>caſion of it: for the Factious begin to open their eyes, and ſeem to retrench their former Penſions to this <hi>Bully-Rock</hi> of Diſſention, and check their profuſe liberality with a cloſe-fiſted forbearance of their allowance to maintain this idle and Se<g ref="char:EOLhyphen"/>ditious Drone; and at laſt, 'tis hoped will drive him like induſtrious Bees out of the Hive of this City, and put the Doctor to his ſhifts, and try how his Wit and Ambition will ſupply him with Neceſſaries to ſupport him with Life and Health, and make him the more able to wade through that Abyſſe of miſery that certainly waits upon him.</p>
+            <p>But, on the other hand, ſome are of opinion, that if the Diſſente<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s do not open their pur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>ſtrings, and make him ſenſible of their orient mercy, he will like a Blood-hound, open his Jaws to their confuſion, and then Plot upon Plot will
+<pb n="16" facs="tcp:98659:11"/>
+be diſcovered, if any one is ſo much a <hi>Solifidian</hi> as to believe him; but his credit (if ever he had any) is now at the laſt gaſp, and he himſelf not far from it.</p>
+            <p>This is no Prognoſtick, but a hearty wiſh, and ſo <hi>ſans Adieu,</hi> as the <hi>French-man</hi> ſays; for I can<g ref="char:EOLhyphen"/>not, dare not bid you farewell, whilſt you are contriving ſuch diſloyal and under-hand wicked practices; but ſhake hands with you, not as a Worthy Man, but a Man Worthy—the <hi>Ellip<g ref="char:EOLhyphen"/>ſis</hi> I leave to be ſupplied by your own party, who are very well vers'd in ſuch nice and modern di<g ref="char:EOLhyphen"/>ſtinctions, according to your new <hi>Syſtematical</hi> Rhetorick, But becauſe ſo leading an Arch-Pa<g ref="char:EOLhyphen"/>triot of his Countrey ought not to paſs without his deſerved Character, take what follows, as a Co<g ref="char:EOLhyphen"/>rollarie to the preceding Dialogue.</p>
+            <q>
+               <l>This is the Man, read him who liſt,</l>
+               <l>A Trojan true as ever piſt.</l>
+            </q>
+            <p>
+               <hi>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dibras</hi> for that, with little variation. This is <hi>Hugh Peters redivivus,</hi> the <hi>Pulpit-Buffoon</hi> of this Nation, the ſqueaking <hi>Cuſhion-cuffer</hi> of Diſ<g ref="char:EOLhyphen"/>ſenters, who to do him right, ſeldom troubles the <hi>ſuggeſtum,</hi> and the leſs the better; the creſt<g ref="char:EOLhyphen"/>ed <hi>Bell-weather</hi> of the <hi>Good Old Cauſe,</hi> the <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> and <hi>ſhame</hi> of the <hi>Miniſterial Function,</hi> the <hi>ſtain</hi>
+               <pb n="17" facs="tcp:98659:11"/>
+and <hi>diſgrace</hi> of the <hi>Gown</hi> and <hi>Scarf,</hi> the <hi>Trum<g ref="char:EOLhyphen"/>pet</hi> of <hi>Sedition,</hi> the <hi>Ring-leader</hi> of <hi>Faction,</hi> the <hi>Kirk-Dragoon,</hi> the <hi>Demicaſter</hi> Divine, the <hi>
+                  <g ref="char:V">Ʋ</g>nge<g ref="char:EOLhyphen"/>doopt Menſche,</hi> as the Booriſh <hi>Hollander</hi> ſtyles an Unbaptiz'd or undipt perſon, in plain Engliſh a Heathen; <hi>Oates</hi> to day, and <hi>Otes</hi> to morrow; a <hi>Papiſt,</hi> a <hi>Calviniſt,</hi> the <hi>Jeſuits Letter-carrier,</hi> a <hi>Lay-Brother</hi> at St. <hi>Omers</hi> in <hi>Artois,</hi> a Petty Cu<g ref="char:EOLhyphen"/>rate in <hi>England,</hi> a Doctor without a <hi>Degree, Di<g ref="char:EOLhyphen"/>ploma,</hi> or <hi>Mandamus,</hi> and yet now, ſometimes he appears in a Canonical Robe, then again ſwadled up in a long black Coat, the very <hi>Prote<g ref="char:EOLhyphen"/>us</hi> of Religion, the <hi>Boutefeu</hi> of the <hi>Nation,</hi> the <hi>Maſſinello</hi> of the <hi>Rabble,</hi> the <hi>Machiavil</hi> of ill-principled Politicks, the bad <hi>Genius</hi> of his Coun<g ref="char:EOLhyphen"/>try, the <hi>deteſtation</hi> of all Loyal Subjects, the <hi>Dar<g ref="char:EOLhyphen"/>ling</hi> of the Giddy and Factious <hi>Mobile,</hi> the <hi>By<g ref="char:EOLhyphen"/>blow</hi> of Nature, the <hi>Diſgrace</hi> of Mankind, the <hi>Belzebub</hi> of Diſſention, the roaring <hi>Boanerges</hi> of the expiring <hi>Old-Cauſe,</hi> the <hi>Geneva-Bull</hi> of <hi>Preſ<g ref="char:EOLhyphen"/>bytery,</hi> the <hi>Propugnator</hi> of <hi>Independency, Patron</hi> and <hi>Pattern</hi> of <hi>Anabaptiſm,</hi> the <hi>Renegado</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>in propria perſona,</hi> the <hi>Pantopola,</hi> or <hi>Jack</hi> of all <hi>Trades</hi> in <hi>Religion,</hi> and the only Scourge of the <hi>Millenarians,</hi> of which <hi>Kid</hi> is moſt feelingly ſen<g ref="char:EOLhyphen"/>ſible; every thing that is bad, nothing that is good, unleſs it be what is good for on-thing.</p>
+            <pb n="18" facs="tcp:98659:12"/>
+            <p>This I preſume may ſerve for his Character in part, till opportunity gives my pen farther occa<g ref="char:EOLhyphen"/>ſion to expatiate upon his merited <hi>Encomium;</hi> but no doubt we ſhall at one time or other have a larger field to diſcourſe in his commendation, if we diligently obſerve his future deſigns, and pry into his Actions. Well! go on Doctor, if I may ſo call him; if not, pardon the expreſſion, 'tis his own haughty Title, which he will ſtill have the impudence ('tis too great a favour to call it Confidence) to aſſume; till he's both Un<g ref="char:EOLhyphen"/>ſcarfed and Ungowned, and receives a reward in a more ſutable Garb to his condition and deſert. And <hi>Hey then up goes he,</hi> and his empty <hi>Cranium</hi> is rais'd a Pole higher than his Shoulders, and ex<g ref="char:EOLhyphen"/>pos'd as a ſpectacle of villany by the hand of Juſtice to the <hi>Antimonarchical</hi> Multitude, from whom poſſibly he may with ſome pity receive a Nod from every Factious Noddle, lamenting his ſad <hi>Cataſtrophe,</hi> and from others a ſign of joy at his deſerved Fate, intermixt with ſome afflicti<g ref="char:EOLhyphen"/>on that it hapn'd no ſooner; and ſo beſtow this Diſtich on him, which began the Epitaph of al<g ref="char:EOLhyphen"/>moſt (I dare not ſay altogether) as verſatile and pretended a Religioniſt,
+<q>
+                  <l>
+                     <g ref="char:V">Ʋ</g>ntimely, 'cauſe ſo late, and late, becauſe</l>
+                  <l>To prevent miſchief, it no ſooner was.</l>
+               </q>
+            </p>
+            <pb n="19" facs="tcp:98659:12"/>
+            <p>And let it come and welcome, for it will prove as glorious a day as e're did ſhine in our Hemiſ<g ref="char:EOLhyphen"/>phere, as noted an <hi>Epocha</hi> as e're was Regiſtred in the Rolls of time; the year of our Chriſtian Jubile in theſe Three Kingdoms, and a happy deliverance from ſo peſtilent and Irreligious a <hi>Caitif,</hi> who deſign'd to involve this Nation in Rebellion, as ſufficiently appears by all his ſham-Plots and Contrivances.</p>
+            <p>And here I cannot paſs by the ſtory of an ex<g ref="char:EOLhyphen"/>quiſite Artiſt (the Vulcan of his time) <hi>Perillus</hi> by name, who to gratifie the Sanguinary humor of the bloody Tyrant <hi>Phalaris,</hi> firſt invented a Brazen Bull, and he preſented it to that Tyrant, which Malefactors ſhould be put into, being firſt made glowing hot; inſomuch that by their cry<g ref="char:EOLhyphen"/>ing (through the barbarouſneſs of the Torment) a noiſe would iſſue forth like the bellowing of a Bull; on whom the Tyrant did this ſignal piece of Juſtice, to incloſe him firſt therein, as a reward of his invention of other mens miſchiefs, and ſo he proved experimentally the excellency of his work, with the loſs of his own life, moſt unpittiedly miſerable.</p>
+            <q>
+               <lg>
+                  <l>—Nec Lex eſt juſtior ulla,</l>
+                  <l>Quam Necis Artificis arte perire ſuâ.</l>
+               </lg>
+               <lg>
+                  <l>It is the juſteſt Law, that all,</l>
+                  <l>Who a new death invent, by that ſhou'd fall.</l>
+               </lg>
+            </q>
+            <pb n="20" facs="tcp:98659:13"/>
+            <p>I will not trouble the Reader with any far<g ref="char:EOLhyphen"/>ther diſcourſe concerning <hi>Otes,</hi> but only this en<g ref="char:EOLhyphen"/>ſuing Relation, which came to my knowledge ſince I ſet pen to paper upon this account (though ſome time ſince acted) to procure his veracity when he was in his <hi>Sacerdotal Grandeur,</hi> (if I may ſay ſo without offence to the Loyal and Learned Clergy) and in great imaginary re<g ref="char:EOLhyphen"/>putation with the vulgar.</p>
+            <p>The ſtory runs thus: Some deſerving Gentle<g ref="char:EOLhyphen"/>men of great eſteem and fortune, meeting acci<g ref="char:EOLhyphen"/>dentally with <hi>T.O.</hi> as he fancied, though on their part, to be better acquainted with his integrity, told him, that there was a perſon who lived in <hi>Grace-Church ſtreet,</hi> who had Travell'd into ſe<g ref="char:EOLhyphen"/>veral Forreign parts, (having firſt related to him their deſign) deſiring <hi>Otes</hi> to take cognizance of him when he ſhould appear; upon which he was ſent for immediately, and upon his admiſſion into their Society, after ſome Complements paſt be<g ref="char:EOLhyphen"/>tween them, <hi>T. O.</hi> having asked the queſtion, <hi>Whither he ever had been beyond-Sea,</hi> and he no way denied it; the <hi>Salamanca</hi> aroſe up, veiled his Bonnet to him, and with his uſual fleering countenance, ſaid, <hi>Sir, now your preſence recol<g ref="char:EOLhyphen"/>lects my memory, I think indeed I have ſeen you there;</hi> but after ſeveral meetings, <hi>Otes</hi> by his diſcourſe ſeeming to diſcover his good intentions
+<pb n="21" facs="tcp:98659:13"/>
+to this unknown perſon, inſomuch that he was forced at laſt to unmask the deſign, and appear with the infallible badge of his Profeſſion, (a Blew Apron) before the unerring and Popular Doctor, for fear of being drawn into the Plot, to his ſcandal and diſgrace, being both innocent and Loyal; upon which, the whole contrivance was blaſted, the Doctor Ridicul'd for his notori<g ref="char:EOLhyphen"/>ous Swearing Faculty, to their great, but (I pre<g ref="char:EOLhyphen"/>ſume) his own ſmall ſatisfaction.</p>
+            <p>In fine, as it was ſaid of the Jeſuits, (the ſpawn of the deceaſed <hi>Loyola</hi>) when they had embroyl<g ref="char:EOLhyphen"/>ed the beſt part of Chriſtendom with their per<g ref="char:EOLhyphen"/>nicious Tenets, and deſtructive Practices,
+<q>
+                  <lg>
+                     <l>Quis illis Funem, quem meruêre, dabit?</l>
+                  </lg>
+                  <lg>
+                     <l>—But who (I trow)</l>
+                     <l>The diſerved H<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r will on them beſtow?</l>
+                  </lg>
+               </q>
+            </p>
+            <p>So may I without doubt examine <hi>O.</hi> and his Complices with the ſame Interrogatory, and if the queſtion be put here in this caſe, <hi>in promptu reſponſio eſt,</hi> there needs no ſtudy for an anſwer, it ſo naturally follows; <hi>Ketch</hi> will ſoon give them a diſpatch, when their Impieties are grown to ſo prodigious a height, as to be lopt off with their Lives according to Juſtice by the hand of
+<pb n="22" facs="tcp:98659:14"/>
+the common Hangman: and 'tis great pity, in my opinion, that he and they who have made ſuch a combuſtion and diſturbance in our <hi>Britiſh Iſles,</hi> while living, ſhould creep <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut of the world ſneakingly and ſilently; therefore I will cloſe all with this Epitaph; (nor is it fit that the pen of any Poet but a <hi>Mars,</hi> ſhou'd compoſe one for the <hi>Coryphaus</hi> of Faction and his Party) on<g ref="char:EOLhyphen"/>ly with the alteration of a ſingle word, and that a moſt ſignificant and material one too.</p>
+            <q>
+               <lg>
+                  <l>Per varios Caſus, &amp; tot diſcrivina rerum,</l>
+                  <l>Tendinius in L<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>neum—</l>
+               </lg>
+               <lg>
+                  <l>Through various fates, and many a different thing,</l>
+                  <l>At laſt we're necklac't with a Hempen ſtring.</l>
+               </lg>
+            </q>
+            <p>Thus <hi>Exit</hi> the Reverend Dr. <hi>Otes</hi> and his A<g ref="char:EOLhyphen"/>bettors; the Curtain's drawn, the Farce is ended, and I am ſecure of a <hi>Plandita</hi> from the <hi>Eſſexian Triumviri.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:98659:14"/>
+            <head>A Catalogue of New Books Printed for and Sold by <hi>James Norris,</hi> at the <hi>Kings-Arms</hi> without <hi>Tem<g ref="char:EOLhyphen"/>ple-bar. 1684.</hi>
+            </head>
+            <p n="1">1. <hi>MAſcinella:</hi> or, a Satyr againſt the <hi>Aſſo<g ref="char:EOLhyphen"/>ciation</hi> and <hi>Guild-hall</hi> Riot, 4<hi rend="sup">o</hi>.</p>
+            <p n="2">2. <hi>Erom<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>:</hi> or, the Noble Stranger; a curi<g ref="char:EOLhyphen"/>ous Novel, 8<hi rend="sup">o</hi>.</p>
+            <p n="3">3. A Tract againſt the Abſolute Decree of Reprobation, in Latin, 8<hi rend="sup">o</hi>.</p>
+            <p n="4">4. An Idea of Happineſs, in a Letter to a Friend, enquiring wherein the greateſt happineſs attainable by Man in this life does conſiſt, 4<hi rend="sup">o</hi>.</p>
+            <p n="5">5. A Murnival of Knaves: or, Whiggiſm plainly diſplayed; and if not grown ſhameleſs<g ref="char:punc">▪</g> Burleſqu'd out of countenance, 4<hi rend="sup">o</hi>.</p>
+            <p n="6">6. The Accompliſhed Lady: or, Deſerving Gentlewoman, being a Vindication of innoc<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and harmleſs Females, from the aſperſions of ma<g ref="char:EOLhyphen"/>licious men: wherein are contained many emi<g ref="char:EOLhyphen"/>nent examples of their Conſtancy, Chaſtity, Pru<g ref="char:EOLhyphen"/>dence, Policy, Valour, Learning, <hi>&amp;c.</hi> wherein they have not onely equall'd, but excell'd many of the other Sex, 12<hi rend="sup">o</hi>.</p>
+            <p n="7">7. <hi>Patriae parricida:</hi> or, the Hiſtory of the Horrid Conſpiracy of <hi>Cataline</hi> againſt the Go<g ref="char:EOLhyphen"/>vernment</p>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
